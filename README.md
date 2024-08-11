@@ -1,5 +1,5 @@
 👋 Hi, I’m @MauricioFalck
-I'm an IT executive with more than 20 years of experience in the Telecommunications industry. 
+I'm an IT executive with more than 20 years of experience in the Telecommunications industry.
 - 💞️ I’m looking to collaborate on multiple projects, focusing on Python, Javascript/Typescript, Rust and C++
 - 📫 You can reach me @ mcfalck@gmail.com
 
